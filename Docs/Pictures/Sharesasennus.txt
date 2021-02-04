@@ -1,0 +1,10 @@
+Destination location:
+      C:\Program Files\ShareX
+
+Additional tasks:
+      Additional shortcuts:
+         Create a desktop shortcut
+         Show "Upload with ShareX" button in Windows Explorer context menu
+         Create a send to shortcut
+      Other tasks:
+         Run ShareX when Windows starts
